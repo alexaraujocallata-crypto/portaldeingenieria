@@ -1,0 +1,7 @@
+{
+  "name": "Portal de Ingenierías",
+  "description": "Plataforma educativa moderna para explorar, comparar y orientar carreras de ingeniería, duración, materias, salarios, rankings y campo laboral según el país.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
